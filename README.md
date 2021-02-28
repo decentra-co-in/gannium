@@ -1,59 +1,26 @@
-# gannium
-Gannium is a SLP token, created in the name of William D. Gann, commodity market legend. Let us create this token as "Trader's Token". Trading at ccTip and memo.cash
-
-# WildBird Token to support Refugees and Transgenders
+# Gannium : Trader's Token
 ![](http://tokens.bitcoin.com/32/aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca.png)
+Gannium is a SLP token, created under Bitcoin.com's Simple Ledger Protocol, in the name of William D. Gann, commodity market legend. Let us create this token as "Trader's Token". Trading at ccTip and memo.cash
 
-**WildBird Token** *(Launch price 0.007USD (0.001 WAVES))* 
+**Gannium Token** 
 
-WildBird Crypto Token is issued with the collaboration of Waves Platform, a open blockchain protocol. 
-
-The motive of this token is, empowering Refugees and Transgenders in the world. Refugees and Transgenders can contact us with proper documentation, for free tokens. Sell tokens later at https://waves.exchange for market fair price. 
-
-**ICO**: Buy WildBird Tokens now directly at https://waves.exchange. This initial funding will be helpful to us, to expand our reach. Initial WildBird token price is 0.007USD (0.001 WAVES) per token. You can buy directly at waves.exchange. Details here... https://cryptochain.substack.com/p/wildbird-token-ico-and-airdrop
-
-**GIVEAWAY**: Refugees and Transgenders can contact us by email with proper documentation, for Free WildBird Tokens. Later, you can sell at waves.exchange or hold for better price.
-
-**AIRDROP**: Share following message in your social media accounts. Send screenshots with your WAVES wallet address and receive 1,000 Free WildBird Tokens. (Equals $7)
-
-*"WILDBIRD Token ICO: Buy WildBird for launch price 0.007 USD (0.001 Waves), at https://waves.exchange. Buy and support Refugees and Transgenders. Visit https://wildbird.decentra.co.in to download wallet."*
-
-
-**Team WildBird**
+**ICO** No ICO
+**GIVEAWAY** NO Giveaway
+**AIRDROP** Join Telegram channel https://t.me/ganniumtokengroup for immediate reward. 
+**TRADING** Trade at https://cctip.io or https://memo.cash 
 
 ## Links
 
-- [Waves website](https://wavesprotocol.org/)
-- [WildBird Website](https://wildbird.decentra.co.in)
-- [Market Capitalization](https://tokenrating.wavesexplorer.com/tokens/FC9r4HaGmeZQb2Hvz5LRSPYy7GdinrNKEViYBMqj5Eyf)
+- [Gannium website](https://gannium.decentra.co.in/)
+- [Block Explorer](https://explorer.bitcoin.com/bch/token/aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca)
 
-### WildBird Token is supported by Ledger Hardware Wallet
+## Supported Wallets
+
+- [Bitcoin.com wallet](https://play.google.com/store/search?q=bitcoin.com)
+- [Badger wallet](https://play.google.com/store/apps/details?id=com.badgermobile)
+
 ![](http://wildbird.decentra.co.in/img/ledgerwallet.jpg)
 
-**Visit**: *Download wallet and exchange app
-https://wildbird.decentra.co.in*
-
-
-### What is Waves Platform?
-Waves is an open platform and decentralized environment for Web3 applications. It offers a wide range of purpose-designed tools for making the process of creating and running DApps easy and accessible.
-
-### How does it work?
-Waves Platform offers an accessible development environment with a primary focus on decentralization. The core functionality of the platform includes:
-- Token operations, exchanging and storing value, managing and creating Digital Assets;
-- Creating and running DApps and decentralized software solutions.
-- Since its mainnet launch in 2017, Waves Platform consists of three core layers:
-- Protocol layer: LPoS, Waves-NG protocol (adapted Bitcoin-NG), RIDE programming language, and sidechains (coming soon) for a functional, secure and scalable network.
-- Infrastructure layer: IDE for sandbox development, tools, SDKs, libraries, frameworks and protocols for convenient and easy integrations.
-- Application layer: Basic core open-source apps (decentralized exchange, mobile apps) and DApp ecosystem for network utility.
-
-### What does it aim to solve?
-Waves technology is designed to address the needs of developers, businesses and technology companies that want to leverage the properties of blockchain systems. They promise security, auditability, verifiability and the trustless execution of transactions and programming logic.
-
-### What are its features?
-**Decentralized**: Waves’ peer-to-peer network has no middlemen, gatekeepers or single point of failure.
-**Fast**: Proof-of-Stake algorithm and Waves-NG protocol enable rapid yet secure transactions.
-**Versatile**: Designed to address all of the most pressing needs of developers exploring blockchain integrations.
-**Open**: No restrictions around who can use the platform or run a validating node.
 
 ### Support our Project
 - BTC - 3KxBnJ5s1EfuT5ofAtwWdRihmyHZHhv1wY
@@ -63,5 +30,4 @@ Waves technology is designed to address the needs of developers, businesses and 
 - TRON - TCcFJ5punc5BEJpcJTW686kxAN4Vr7Vs6Y
 - Digibyte - Scui2X13HwB3AXL3KuLrdt7AxQi1sv7TB9
 - WAVES - 3P5cHacpqS2RWy13Rp19EEKRsVsRTJirpP1
-
-![](http://wildbird.decentra.co.in/img/waves.jpg)
+- SLP - 

@@ -4,10 +4,7 @@ Gannium is a SLP token, created under Bitcoin.com's Simple Ledger Protocol, in t
 
 **Gannium Token** 
 
-**ICO** No ICO
-**GIVEAWAY** NO Giveaway
 **AIRDROP** Join Telegram channel https://t.me/ganniumtokengroup for immediate reward. 
-**TRADING** Trade at https://cctip.io or https://memo.cash 
 
 ## Links
 
@@ -18,6 +15,12 @@ Gannium is a SLP token, created under Bitcoin.com's Simple Ledger Protocol, in t
 
 - [Bitcoin.com wallet](https://play.google.com/store/search?q=bitcoin.com)
 - [Badger wallet](https://play.google.com/store/apps/details?id=com.badgermobile)
+
+
+## Gannium listed Exchanges
+
+- [ccTip](https://cctip.io) Exchange for other crypto currencies
+- [Memo.cash](https://memo.cash) Exchange for Bitcoin cash
 
 ![](http://wildbird.decentra.co.in/img/ledgerwallet.jpg)
 

@@ -27,10 +27,4 @@ Gannium is a SLP token, created under Bitcoin.com's Simple Ledger Protocol, in t
 
 ### Support our Project
 - BTC - 3KxBnJ5s1EfuT5ofAtwWdRihmyHZHhv1wY
-- ETH - 0x4Acb3d7D1dA4317793Bba561e1930237264ba6a7
-- LTC - MQw6XWV6A3vSg9DHEmVn2E1Avc6h7HUC6W
-- XMR - 4BEa2Hy81FR6KyxMZLwPj55iQfk7zR8Q8PjMydg6q734dZGRbrSunwvMxRCuq1zWHzM6E9GBQttTZZxi7APod89Y6TDEnTx
-- TRON - TCcFJ5punc5BEJpcJTW686kxAN4Vr7Vs6Y
-- Digibyte - Scui2X13HwB3AXL3KuLrdt7AxQi1sv7TB9
-- WAVES - 3P5cHacpqS2RWy13Rp19EEKRsVsRTJirpP1
-- SLP - 
+- SLP - simpleledger:qrc23cxwrhrcl0rhwhp4zfsngvgjjsmqjcm5kcd2z3

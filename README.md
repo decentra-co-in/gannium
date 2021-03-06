@@ -1,6 +1,8 @@
 # Gannium : Trader's Token
 ![](http://tokens.bitcoin.com/32/aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca.png)
-Gannium is a SLP token, created under Bitcoin.com's Simple Ledger Protocol, in the name of William D. Gann, commodity market legend. Let us create this token as "Trader's Token". Trading at ccTip and memo.cash
+Gannium is a SLP token, created under Bitcoin.com's Simple Ledger Protocol, in the name of William D. Gann, commodity market legend. Let us create this token as "Trader's Token". Exchange at ccTip and memo.cash
+
+Gannium stopped token sales, and anyone can own Gannium Token by participating airdrops, giveaways, games and dApps. 
 
 **Gannium Token** 
 

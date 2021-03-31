@@ -1,10 +1,12 @@
 # Gannium : Trader's Token
 ![](http://tokens.bitcoin.com/32/aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca.png)
-Gannium is a SLP token, created under Bitcoin.com's Simple Ledger Protocol, in the name of William D. Gann, commodity market legend. Let us create this token as "Trader's Token". Exchange at ccTip and memo.cash
+Gannium is a SLP token, created under Bitcoin Cash's Simple Ledger Protocol, in the name of William D. Gann, commodity market legend. Let us create this token as "Trader's Token". Exchange at ccTip and memo.cash
 
 Gannium stopped token sales, and anyone can own Gannium Token by participating airdrops, giveaways, games and dApps. 
 
 **Gannium Token** 
+
+Token ID: aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca
 
 **AIRDROP** Join Telegram channel https://t.me/ganniumtokengroup for immediate reward. 
 
@@ -26,8 +28,10 @@ Gannium stopped token sales, and anyone can own Gannium Token by participating a
 
 ![](http://wildbird.decentra.co.in/img/ledgerwallet.jpg)
 
+FIBONACCI TOKEN (Tipping Token for Gannium holders)
+Token ID: e2982b4a4d2737fb921e76e7d5208a272ec010385babe67070589a6aed27e7b7
+
 
 ### Support our Project
-- BTC - 3KxBnJ5s1EfuT5ofAtwWdRihmyHZHhv1wY
 - BCH - bitcoincash:qzsx9fzf3js6yawvrftrng7zqe5preqthykl9m2ggr
 - SLP - simpleledger:qrc23cxwrhrcl0rhwhp4zfsngvgjjsmqjcm5kcd2z3

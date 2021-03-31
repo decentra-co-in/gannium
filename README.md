@@ -28,7 +28,7 @@ Token ID: aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca
 
 ![](http://wildbird.decentra.co.in/img/ledgerwallet.jpg)
 
-FIBONACCI TOKEN (Tipping Token for Gannium holders)
+## FIBONACCI TOKEN (Tipping Token for Gannium holders)
 Token ID: e2982b4a4d2737fb921e76e7d5208a272ec010385babe67070589a6aed27e7b7
 
 

@@ -1,4 +1,4 @@
-# Gannium : Trader's Token
+# Gannium : Trader's Token (Dividend earning)
 ![](http://tokens.bitcoin.com/32/aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca.png)
 Gannium is a SLP token, created under Bitcoin Cash's Simple Ledger Protocol, in the name of William D. Gann, commodity market legend. Let us create this token as "Trader's Token". Exchange at ccTip and memo.cash
 

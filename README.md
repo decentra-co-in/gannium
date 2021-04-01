@@ -19,6 +19,7 @@ Token ID: aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca
 
 ## Supported Wallets
 
+- [Zapit Wallet] (https://play.google.com/store/apps/details?id=io.wallet.zapit) 
 - [Bitcoin.com wallet](https://play.google.com/store/search?q=bitcoin.com)
 - [Badger wallet](https://play.google.com/store/apps/details?id=com.badgermobile)
 

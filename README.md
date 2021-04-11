@@ -16,6 +16,7 @@ Token ID: aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca
 
 - [Gannium website](https://gannium.decentra.co.in/)
 - [Block Explorer](https://explorer.bitcoin.com/bch/token/aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca)
+- [Buy / Sell](https://memo.cash/token/aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca?for-sale)
 
 ## Supported Wallets
 
@@ -27,7 +28,7 @@ Token ID: aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca
 ## Gannium listed Exchanges
 
 - [ccTip](https://cctip.io) Exchange for other crypto currencies
-- [Memo.cash](https://memo.cash) Exchange for Bitcoin cash
+- [Memo.cash](https://memo.cash/token/aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca?for-sale) Exchange for Bitcoin cash
 
 ![](http://wildbird.decentra.co.in/img/ledgerwallet.jpg)
 

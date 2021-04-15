@@ -7,6 +7,7 @@ Gannium stopped token sales, and anyone can own Gannium Token by participating a
 All Gannium holders are eligible for dividends in BCH, Fibonacci Tokens and Gannium Tokens.
 
 **Gannium Token** 
+![](http://sankarsrinivasan.com/personal/ganniumlogo.png)
 
 Token ID: aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca
 

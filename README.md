@@ -18,6 +18,7 @@ Token ID: aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca
 - [Coin Ranking](https://coinranking.com/coin/g6GVyoWZb+gannium-gannium/)
 - [Block Explorer](https://explorer.bitcoin.com/bch/token/aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca)
 - [Buy / Sell](https://memo.cash/token/aa30ea2fe349d0ea7abd0fbf4dbd2df7ec5b9384b5574120d8d52c0f7dfb65ca?for-sale)
+- [Buy NFT](https://mintable.app/u/sankarsrinivasan)
 
 ## Supported Wallets
 

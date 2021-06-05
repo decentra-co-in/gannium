@@ -39,5 +39,5 @@ Token ID: e2982b4a4d2737fb921e76e7d5208a272ec010385babe67070589a6aed27e7b7
 
 
 ### Support our Project
-- BCH - bitcoincash:qzsx9fzf3js6yawvrftrng7zqe5preqthykl9m2ggr
-- SLP - simpleledger:qrc23cxwrhrcl0rhwhp4zfsngvgjjsmqjcm5kcd2z3
+- BCH - bitcoincash:qp644pceseh24lrvjjxmglh5kgxzda0z8sfvyjks77
+- SLP - simpleledger:qp2qa3l56gke4dqcceeh3kwhdk3y75amh5atq3vnag
